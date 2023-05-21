@@ -1,0 +1,44 @@
+*{padding: 0; margin:0; box-sizing: border-box;}
+body{
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+    letter-spacing: 3px;
+}
+ h1{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.icon i{
+    padding: 20px;
+    background-color: skyblue;
+    font-size: 30px;
+    color: white;
+    margin:10px 15px;
+    border-radius: 50%;
+}
+#dental p{
+    font-family: sans-serif;
+    line-height: 30px;
+}
+#services{
+    background-color:whitesmoke;
+
+}
+#services .card{
+    padding: 20px;
+}
+
+
+nav{
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(10px);
+  
+  }
